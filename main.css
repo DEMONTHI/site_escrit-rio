@@ -8,17 +8,17 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
 }
 
 body, input, textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Times New Roman', Times, serif
 }
 
 header {
     padding: 16px 0px;
-    background-color: #182c61;
+    background-color: #000000;
     color: #ecf0f1;
 }
 
@@ -30,7 +30,7 @@ header nav li {
 
 header,
 section h2 {
-    font-family: 'Bungee', cursive;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header nav li a {
@@ -52,12 +52,17 @@ section .conteiner {
 }
 
 .brands-list img {
-    height: 24px;
+    height: 70px;
+}
+
+.store-front {
+    height: 500px;
 }
 
 .brands-list li {
     display: inline;
     margin-right: 8px;
+    
 }
 
 section .conteiner {
@@ -125,14 +130,14 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #000000;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #1c2231;
 }
 
 input:focus, textarea:focus {
@@ -140,7 +145,7 @@ input:focus, textarea:focus {
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #000000;
     color:#ecf0f1;
     padding: 16px 0;
 }
