@@ -11,6 +11,9 @@ form button {
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
 }
+header li:hover {
+    color: #1c2231;
+}
 
 body, input, textarea {
     font-family: 'Times New Roman', Times, serif
