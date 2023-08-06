@@ -11,7 +11,7 @@ form button {
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
 }
-header li:hover {
+header nav li:hover {
     color: #1c2231;
 }
 
